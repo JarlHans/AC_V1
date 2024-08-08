@@ -1,0 +1,37 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+---
+
+<Layout title="Anopheles de Colombia">
+  <main>
+    <header class="py-3 px-6 flex items-center  top-0 w-full justify-between font-bold text-[#222222]">
+      <div class="flex flex-grow basis-0">
+        <a href="/"><img class="w-40" src="Logo.svg" alt="Logo Freddy Ruiz, Biologo, PHD"></a>        
+      </div>
+
+      <nav>
+        <ul class="flex text-sm [&>li>a]:inline-block">
+        <ul class="flex text-sm [&>li>a]:inline-block [&>li>a]:px-2 [&>li>a]:py-2 ">
+          <li><a href="/">Inicio</a></li>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/">Contacto</a></li>
+        </ul>
+      </nav>
+
+      <nav class="flex flex-grow basis-0 justify-end">
+        <a href="https://www.linkedin.com/in/john-freddy-ruiz-lopez-phd-096a1716a/" target="_blank"><img src="socialLink.svg" alt="Linkedin Freddy"></a>
+      </nav>
+    </header>
+
+    <section class="absolute flex flex-col justify-center w-full h-[90vh] text-7xl">
+      <div class="w-2/5 px-6">
+        <h1 class="border-b-[14px] border-[#323341]
+         py-4"><span class="italic">Anopheles</span><br> de <span class="text-gradient">Colombia</span></h1>
+        <p class="text-xl my-4">Anopheles es un género de mosquitos conocido por ser el principal vector de la malaria, una enfermedad que afecta a millones de personas en todo el mundo.</p>
+      </div>
+    </section>
+
+    
+  </main>
+</Layout>
